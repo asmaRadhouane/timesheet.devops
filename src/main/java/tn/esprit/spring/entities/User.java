@@ -16,6 +16,7 @@ import javax.persistence.TemporalType;
 
 @Entity
 @Table(name = "T_USER")
+//second commit
 public class User implements Serializable {
 
 
